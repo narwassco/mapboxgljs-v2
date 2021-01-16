@@ -1,6 +1,6 @@
 # mapboxgljs-v2
-![](https://github.com/narwassco/mapbox-gl-js-client/workflows/Node.js%20CI/badge.svg)
-![GitHub](https://img.shields.io/github/license/narwassco/mapbox-gl-js-client)
+![](https://github.com/narwassco/mapboxgljs-v2/workflows/Node.js%20CI/badge.svg)
+![GitHub](https://img.shields.io/github/license/narwassco/mapboxgljs-v2)
 [![Gitter](https://badges.gitter.im/narwassco/community.svg)](https://gitter.im/narwassco/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This client shows Mapbox Vetor Tile of water supply map for Narok Water.
@@ -8,8 +8,8 @@ This client shows Mapbox Vetor Tile of water supply map for Narok Water.
 ## Installation
 
 ```
-git clone https://github.com/narwassco/mapbox-gl-js-client.git
-cd mapbox-gl-js-client
+git clone https://github.com/narwassco/mapboxgljs-v2.git
+cd mapboxgljs-v2
 npm i
 ```
 
